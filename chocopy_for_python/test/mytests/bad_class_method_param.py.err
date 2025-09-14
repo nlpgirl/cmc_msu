@@ -1,0 +1,6 @@
+test/mytests/bad_class_method_param.py:15:1: error: Expected type `int`; got type `bool` in parameter 1
+a.set_A(True, False)
+^
+test/mytests/bad_class_method_param.py:15:1: error: Expected type `int`; got type `bool` in parameter 2
+a.set_A(True, False)
+^
